@@ -1,4 +1,4 @@
-### Hi there! Welcome to my space, let´s code and have some fun! 🐱‍🐉
+### Hi there! Welcome to my space, let´s code and have some fun! 😁
 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on front-end open source projects to acquire more expierence with open projects. 
@@ -7,7 +7,7 @@
 
 <br><br>
 
-<div align="center">
+<div style="display: inline_block">
   <a href="https://github.com/danilobaraldi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danilobaraldi&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilobaraldi&layout=compact&langs_count=7&theme=highcontrast"/>
