@@ -1,10 +1,5 @@
 ### Hi there! Welcome to my space, let´s code and have some fun! 😁
 
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on front-end open source projects to acquire more expierence with open projects. 
-- 🤔 I’m looking for help with  React.
-
-
 <br><br>
 
 <div style="display: inline_block">
